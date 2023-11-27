@@ -1,6 +1,19 @@
-.janayn-h1{
+.nayn-h1{
     color: salmon;
+    text-align: center;
+    text-transform: uppercase;
 }
-.janayn-h1{
+.nayn-h1{
     color: salmon;
+    text-align: center;
 }
+.nayn-ul{
+    color: royalblue;
+    align-items: center;
+}
+.nayn-h2{
+    color: darkorange;
+}
+.nayn-body {
+    background-image: url("http://wifflegif.com/");
+  }
